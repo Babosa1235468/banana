@@ -1,6 +1,6 @@
 # Lista de Tarefas
 Este é um projeto simples para garantir uma lista de tarefas.
-## Tarefas pendentes
+#### Tarefas pendentes
 - [ ] Comprar leite
 - [ ] Estudar para o exame
 - [ ] Limpar o quarto
